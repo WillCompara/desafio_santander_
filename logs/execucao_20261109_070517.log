@@ -1,0 +1,22 @@
+09/11/2026 07:05:17.927 | INFO | Iniciando execucao 20261109_070517
+09/11/2026 07:05:18.246 | INFO | Abrindo navegador
+09/11/2026 07:05:18.372 | INFO | Baixando planilha do site
+09/11/2026 07:05:18.536 | INFO | 10 registros lidos da planilha
+09/11/2026 07:05:18.537 | INFO | Acessando https://rpachallenge.com/
+09/11/2026 07:05:19.781 | INFO | Desafio iniciado
+09/11/2026 07:05:19.793 | INFO | Linha 1: OK
+09/11/2026 07:05:19.801 | INFO | Linha 2: OK
+09/11/2026 07:05:19.809 | INFO | Linha 3: OK
+09/11/2026 07:05:19.819 | INFO | Linha 4: OK
+09/11/2026 07:05:19.834 | INFO | Linha 5: OK
+09/11/2026 07:05:19.843 | INFO | Linha 6: OK
+09/11/2026 07:05:19.851 | INFO | Linha 7: OK
+09/11/2026 07:05:19.859 | INFO | Linha 8: OK
+09/11/2026 07:05:19.867 | INFO | Linha 9: OK
+09/11/2026 07:05:19.874 | INFO | Linha 10: OK
+09/11/2026 07:05:19.874 | INFO | Formulario preenchido em 93 ms
+09/11/2026 07:05:19.889 | INFO | Resultado: Your success rate is 100% ( 70 out of 70 fields) in 96 milliseconds
+09/11/2026 07:05:19.955 | INFO | Print salvo em C:\Users\Work\Downloads\Desafio\output\score_20261109_070517.png
+09/11/2026 07:05:20.034 | INFO | Total: 10 OK / 0 NOK
+09/11/2026 07:05:20.035 | INFO | Resultados salvos em C:\Users\Work\Downloads\Desafio\output\resultado_20261109_070517.xlsx e C:\Users\Work\Downloads\Desafio\output\resultado_20261109_070517.csv
+09/11/2026 07:05:20.035 | INFO | Fim da execucao (2.11 s) - log em C:\Users\Work\Downloads\Desafio\logs\execucao_20261109_070517.log
